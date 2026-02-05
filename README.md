@@ -90,3 +90,8 @@ void decompressFile() {
 
     printf("File decompressed successfully.\n");
 }
+input:-
+AAAABBBCCDAA
+output:-
+AAAABBBCCDAA
+
